@@ -1,0 +1,101 @@
+body{
+    background-image:url("bg.png");
+    background-size:cover;
+    background-repeat:no-repeat;s
+    margin:0px;
+}
+.social{
+    background-color:white;
+    height:50px;
+}
+#socialimg{
+    width:30px;
+    height:30px;
+    float:left;
+    margin:10px 60px 10px 60px;
+}
+span{
+    float:right;
+    height:30px;
+    margin:0px 60px 0px 60px;
+    padding:10px;
+    color:grey;
+}
+h1,address{
+    font-family:cursive;
+}
+a{
+    text-decoration:none;
+    color:grey;
+}
+.topbar{
+    border-radius:30px;
+    height:200px;
+}
+#logo_image{
+    float:left;
+    border-radius:30px;
+    height:160px;
+    width:160px;
+    margin:20px;
+}
+address{
+    font-size:200%;
+}
+.images{
+    margin:20px auto;
+    padding:auto;
+    height:210px;
+    width:1200px;
+    }
+.image{
+    border-radius:30px;
+    border:5px double white;
+    max-height:200px;
+    min-height:200px;
+    max-width:200px;
+    min-width:200px;
+
+    }
+#content{
+    height: 785px;
+     }
+#clubs{
+    border-radius:30px;
+    float:left;
+    min-height: 100%;
+    width:30%;
+    }
+.name{
+    width:90%;
+    min-height:80px;
+    color: white;
+    margin:2px 2px;
+    padding: 20px 20px;
+    text-align: center;
+    background-color:#01ffff;
+    font-size: 32px;
+    border-radius:30px;
+    border:4px double white;
+    }
+
+.description{
+    border:4px double black;
+    border-radius:30px;
+    font-size:150%;
+    text-align:center;
+    padding:50px 50px 50px 50px;
+    min-height:675px;
+    width:60%;
+    float:right;
+    }
+p{
+    text-align:center;
+    }
+iframe{
+    height:350px;
+    width:450px;
+    border-radius:30px;
+}
+
+

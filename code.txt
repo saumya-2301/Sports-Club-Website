@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSE326 SPORTS CLUB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="social">
+        <div class="socialdiv">
+            <img id="socialimg" src="\scw\social\twitter.png" alt="twitter">
+            <img id="socialimg" src="\scw\social\fb.png" alt="facebook">
+            <img id="socialimg" src="\scw\social\insta.png" alt="instagram">
+            <img id="socialimg" src="\scw\social\linked.png" alt="linkedin">
+        </div>
+        <div class="email_contact">
+            <span id="email"><a href="mailto:cse326@email.com">cse326@email.com</a></span>
+            <span id="contact">+911234567890</span>
+        </div>
+    </div>
+    <div class="topbar">
+        <div id="logo">
+            <img id="logo_image" src="logo.png">
+        </div>
+        <div id="menu-bar">
+            <h1>About Sports Club Subscription Contact Us</h1>
+            <address>
+                Mail us at:<br>
+                <a href="mailto:cse326sportsclub@mail.com"></href>cse326sportsclub.com<br><a></a>
+                Address:LPU,Jalandhar,Punjab<br>
+                91XXXXXXXYZ
+            </address>
+        </div>
+        <div class="images">
+                <img class="image"   src="\scw\sportsImages\1.png" alt="Football">
+                <img class="image"   src="\scw\sportsImages\2.png" alt="Cricket">
+                <img class="image"   src="\scw\sportsImages\3.png" alt="Volleyball">
+                <img class="image"   src="\scw\sportsImages\4.png" alt="Badminton">
+                <img class="image"   src="\scw\sportsImages\5.png" alt="Swimming">
+        </div>
+        <div id="content">
+            <div id="clubs">
+                <div class="name"><b><u>Clubs</u></b></div>
+                <div class="name">Football</div>
+                <div class="name">Cricket</div>
+                <div class="name">Volleyball</div>
+                <div class="name">Badminton</div>
+                <div class="name">Swimming</div>
+            </div>
+            <div class="description">
+                <b>Join Our Club and start your training now!!
+                <p><u>About the club</p></u></b>
+                Our Sport Club program  offers the community an opportunity to participate in a
+                broad variety of sports and recreational activities. All programs are based on ones interest and
+                designed to enhance the  experience by creating an environment where people can unite in
+                diverse groups to achieve common goals and objectives while encouraging healthy lifestyles. Sport
+                Clubs provide a valuable learning experience through student involvement  and also build in leadership development.
+                <br/>
+                <b>Here's a video on importance of sports:</b><br/>
+                <iframe src="https://www.youtube.com/embed/hmFQqjMF_f0" title="How playing sports benefits your body ... and your brain - Leah Lagos and Jaspal Ricky Singh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </div>
+        </div>
+
+</body>
+</html>
